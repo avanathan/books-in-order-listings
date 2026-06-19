@@ -815,4 +815,3 @@
 - [V.C. Andrews, 10 books, Historical Fiction, Horror, Psychological Fiction, Romance, Thriller, Dollanganger | Book Series In Order](https://booksinorder.online/authors/vc-andrews/)
 - [Veronica Roth, 1 book, Dystopian, Science Fiction, Thriller | Book Series In Order](https://booksinorder.online/authors/veronica-roth/)
 - [Yudhanjaya Wijeratne, 1 book, Adventure, Fantasy, Science Fiction | Book Series In Order](https://booksinorder.online/authors/yudhanjaya-wijeratne/)
- ~/dev/work-git/claudehome/booksinorder2  main *1 !17 ?4
